@@ -1,0 +1,15 @@
+- Open Click and click on the calendar icon in the top right corner, next to your profile picture.
+- Click on "Create Event."
+- Choose the type of meeting you want to schedule.
+- Enter the title of the meeting.
+- Set the date and time for the meeting, and decide if it should be a recurring event.
+- Specify the meeting's location.
+- Choose your preferred meeting mode.
+- Enable the record option if you want to record the meeting.
+- Add speakers and co-hosts to your meeting.
+- Assign the meeting to participants or a conversation.
+- Enter the agenda for the meeting.
+- Add any necessary attachments.
+- Click on "Permissions" to set the required permissions for the meeting.
+- Click on "Close."
+- Click on "Create" to schedule the meeting.

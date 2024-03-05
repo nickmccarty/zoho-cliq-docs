@@ -1,0 +1,15 @@
+- Welcome to Clicks How-To Series.
+- Today's video covers bookmarking, organizing, and accessing important messages quickly.
+- To bookmark a message:
+  - Hover over the message tab.
+  - Click on the star icon that appears.
+  - A list of bookmark categories will pop up.
+  - Click on the appropriate category to save your bookmark.
+- To find all bookmarked messages:
+  - Click on the starred message icon.
+  - This icon is located at the top right corner of your screen.
+- Bookmarked messages are categorized.
+- Navigate between tabs to view relevant messages.
+- To unstar a message:
+  - Hover over the star on the message.
+  - Click on it to remove the bookmark.

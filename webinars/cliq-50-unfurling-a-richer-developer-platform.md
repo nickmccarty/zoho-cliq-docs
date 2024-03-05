@@ -1,0 +1,20 @@
+- Introduction by Ria from the Zoho Click team about the webinar's purpose: to inspire attendees to build personal productivity systems or transform their company/team operations.
+- Explanation of Zoho Click as a dynamic collaboration platform that integrates communication, collaboration, and innovation.
+- Discussion of the challenges of managing multiple roles and responsibilities across various business functions and the need to streamline tools and apps.
+- Mention of the significant investment by enterprises in internal tools and apps, which act as backstage managers for smooth business operations.
+- Introduction to Zoho Click's developer platform as a space to create custom tools, integrations, and automations.
+- Overview of new features in Click 5.0:
+  - Unfold Handler or link preview customization for richer, interactive link expansions.
+  - New way to display location data in widgets using maps with customizable pins and color coding.
+  - New image component in widgets for displaying images in carousels or galleries.
+  - Introduction of cards to visualize lists in a compelling, functional, and interactive way.
+  - Improved web hook tokens interface with usage stats, enable/disable options, renaming, and secure interaction with third-party platforms.
+  - New subscription model allowing bots to send messages to non-subscribed users.
+  - Customizable bot menu actions with new icons and colors.
+  - Two new database fields for storing large multi-line text and encrypted data.
+  - Toggle component for binary inputs and user preferences.
+  - Catalog component in forms for selecting values with precision.
+  - Revamped interface for publishing apps in the marketplace.
+- Demonstration of these components in action within the Zoho Click platform using an example of a sporting goods company called Z Active.
+- Mention of apps created using the developer platform that are live in the marketplace and upcoming updates for extensions.
+- Closing thanks and well wishes from Ria.

@@ -1,0 +1,13 @@
+- The speaker is responsible for IT operations and IT procurement at Starmark Software Private Limited.
+- Their role involves running day-to-day IT infrastructure, evaluating and implementing new tools and technologies, and negotiating contracts and prices with partners.
+- Starmark Software specializes in product engineering, particularly web-based applications, and caters to the healthcare ecosystem.
+- The company has a culture of innovation, research and development, and customer-centricity, treating customers as kings or queens.
+- They have an open-door policy, minimal managerial levels, and believe in work-life balance, allowing employees to pursue hobbies and passions.
+- The speaker is a mountaineer who visits the Himalayas twice a year, supported by the company's work-life balance ethos.
+- Starmark uses Zoho products like Zoho Desk and Zoho Projects, which integrate well with Zoho Click.
+- During the pandemic, they switched from using open-source tools and Microsoft Teams to Zoho Click for internal communication due to better features, flexible pricing, and ease of setup.
+- They onboarded over a thousand employees onto Click with the help of Zoho's support team and integrated their Active Directory with Zoho Directory for single sign-on.
+- Click's compliance with HIPAA guidelines was crucial for their healthcare domain work.
+- The speaker's favorite features in Click include video collaboration, screen sharing, channels, admin console, file sharing, setting reminders, pinning messages, and scheduling messages.
+- They would like to see telephone system integration within Click and the ability to take control of a remote machine during screen sharing sessions.
+- An upcoming release on February 14 will include phone system integration with Click.

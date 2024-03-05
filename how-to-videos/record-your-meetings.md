@@ -1,0 +1,10 @@
+- Start by clicking on your profile image in the upper right corner.
+- Under "My Click," select "Profile and Settings."
+- Click on "Calls and Meetings."
+- In the "Recording" tab, you will find the following options:
+  - **Record all meetings:** This will automatically record all the meetings that you host.
+  - **Do not record:** No meetings will be recorded when this option is selected.
+  - **Remember my last choice:** The recording option you chose for your previous meeting will be applied to future meetings.
+- These settings only apply to the meetings that you host.
+- All meetings recorded in Click are accessible from the "Recording" tab in the "File" section.
+- You can revisit these recordings to recall meeting details, take notes, and work on tasks.

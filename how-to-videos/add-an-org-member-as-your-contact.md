@@ -1,0 +1,10 @@
+- Navigate to the contact section in the navigation sidebar of your Click organization.
+- Click on the plus icon to add a new contact.
+- Search for the users you want to invite.
+- Click on "Next" after selecting the users.
+- Add a personalized message for the invite.
+- Send the invite by clicking on the "Send Invitees" option.
+- The invited user will receive a notification in their contact section.
+- Once the invite is accepted, you can view the user's availability status.
+- Click allows chatting with organization members even if they are not in your contact list.
+- The video is part of a series of educational content about using Click.

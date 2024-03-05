@@ -1,0 +1,13 @@
+- Today's video focuses on how to initiate an instant meeting in Click.
+- Click offers both audio and video meeting options.
+- To start a meeting immediately:
+  - Click on the quick action icon.
+  - Hover over the "Meet" option.
+  - Select your preferred meeting mode (audio or video).
+- Another method to start a meeting:
+  - Go to the "Remote Work" module.
+  - Click on the "Meet Now" dropdown.
+  - Choose your preferred meeting mode.
+- Instant meetings are useful for quick decision-making.
+- You can copy the meeting invitation link.
+- Share the invitation through various communication platforms to invite participants.

@@ -1,0 +1,8 @@
+- Navigate to the remote work module in Click.
+- Click on the dropdown option next to the checkout button in the top right corner.
+- Select "Apply Leave" from the dropdown menu.
+- Your employee ID will be displayed in the first field, autofilled from Zoho People.
+- Choose a leave type from the respective dropdown menu.
+- Enter the start and end dates for your leave in the "from" and "until" fields.
+- Use the "reason for leave" section to explain why you are requesting leave.
+- Click on "Submit" to send your leave application.

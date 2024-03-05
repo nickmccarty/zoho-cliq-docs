@@ -1,0 +1,20 @@
+- Introduction to adding custom stickers and emojis in Click
+- To add custom stickers:
+  - Go to Profile and Settings by clicking on your profile picture.
+  - Click on the Emojis and Stickers tab.
+  - Click on Add Stickers.
+  - Upload a sticker by clicking on the upload image icon.
+  - Name the sticker and click on Create.
+- To create a custom emoji:
+  - Follow similar steps as for stickers.
+  - Click on Custom Emojis, then Add Emoji.
+  - Upload an emoji image and name it.
+  - Click on Create to finish.
+- Accessing custom emojis and stickers:
+  - Use the emoji picker in the chat message composer.
+  - Find your custom stickers under Custom Stickers.
+- Using custom emojis and stickers in Click meetings is also possible.
+- Adding emojis or stickers sent by co-workers:
+  - Tap on a received sticker or emoji.
+  - Click on Add to My Collection to use it yourself.
+- The tutorial ends with a promise of more educational videos on the Zoho Click YouTube channel.

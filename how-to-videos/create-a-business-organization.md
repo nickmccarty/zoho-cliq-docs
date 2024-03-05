@@ -1,0 +1,13 @@
+- Navigate to Zoho Click website.
+- Enter your email ID and password.
+- Click on "Start your free trial."
+- Check your email for a confirmation message.
+- Click on "Confirm Account" in the email to activate your Zoho account.
+- Click on "Verify."
+- Select "Set up your business organization."
+- Enter your company name.
+- Click on "Create."
+- Invite co-workers by entering their email IDs.
+- Click on "Invite them all."
+- Your business organization in Click is now successfully set up.
+- Stay tuned to the channel for more educational videos about Click.

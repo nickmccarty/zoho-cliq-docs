@@ -1,0 +1,35 @@
+- Introduction to creating a group chat in Click:
+  - Click on the quick action icon.
+  - Select "start a group conversation."
+  - Choose users to add to the chat.
+  - Enter a chat title.
+  - Click "start" to create the group chat.
+
+- Actions available in a group chat:
+  - Start a meeting.
+  - Schedule a meeting.
+  - Broadcast a session.
+  - Search conversations.
+  - Mute chat notifications.
+  - Convert group chat into a channel.
+  - Add participants to the group chat.
+  - Use the action menu for various chat actions.
+
+- Detailed steps for performing actions:
+  - Use the chat menu at the top right corner for search and collaboration options.
+  - Click the video icon for meeting options.
+  - Use the bell icon to mute notifications.
+  - To convert a chat into a channel:
+    - Click the action icon and select "convert to channel."
+    - Choose the channel type and visibility.
+    - Enter a description and click "convert to channel."
+  - To add participants:
+    - Click "add participants" and select individuals.
+    - Alternatively, use the action icon or type names directly.
+    - New users will see previous conversations unless a new chat is started.
+  - To remove participants:
+    - Hover over their image and click the red dash.
+    - Confirm removal in the pop-up.
+  - Participants can leave the group chat via the action menu.
+
+- Refer to the attached video in the description box for more details on message actions available in the action menu.
