@@ -1,6 +1,8 @@
 # Zoho Cliq Docs
 
-## Developer Platform
+> Below are links to markdown files which contain GPT-created summaries of the videos in the associated Zoho Cliq YouTube playlists. 
+
+## [Developer Platform](https://www.youtube.com/watch?v=fdvdDycLx2I&list=PLWzvJI5w1TXxn6pIjPrzmR0JLyHY4iyFj&ab_channel=ZohoCliq)
 
 - [Chatgpt Integration With Zoho Cliq](https://github.com/nickmccarty/zoho-cliq-docs/blob/main/developer-platform/chatgpt-integration-with-zoho-cliq.md)
 - [Effectively Manage Your Team Using Platform Components](https://github.com/nickmccarty/zoho-cliq-docs/blob/main/developer-platform/effectively-manage-your-team-using-platform-components.md)
@@ -8,13 +10,13 @@
 - [Slash Commands And Button Functions](https://github.com/nickmccarty/zoho-cliq-docs/blob/main/developer-platform/slash-commands-and-button-functions.md)
 - [Zoho Cliq Developer Platform](https://github.com/nickmccarty/zoho-cliq-docs/blob/main/developer-platform/zoho-cliq-developer-platform.md)
   
-## Features
+## [Features](https://www.youtube.com/watch?v=vjyPmGh-210&list=PLWzvJI5w1TXw63RtSadzpV7TPzGwNnWRZ&ab_channel=ZohoCliq)
 
 - [Do Not Disturb](https://github.com/nickmccarty/zoho-cliq-docs/blob/main/features/do-not-disturb.md)
 - [Schedule Messages](https://github.com/nickmccarty/zoho-cliq-docs/blob/main/features/schedule-messages.md)
 - [Zoho Cliq Networks](https://github.com/nickmccarty/zoho-cliq-docs/blob/main/features/zoho-cliq-networks.md)
   
-## How-To Videos
+## [How-To](https://www.youtube.com/watch?v=Zkj29eXa4QA&list=PLWzvJI5w1TXyfVb7cZlMAbvXUVh7LKmYE&ab_channel=ZohoCliq)
 
 - [Actions You Can Perform On A Group Chat](https://github.com/nickmccarty/zoho-cliq-docs/blob/main/how-to-videos/actions-you-can-perform-on-a-group-chat.md)
 - [Add An Org Member As Your Contact](https://github.com/nickmccarty/zoho-cliq-docs/blob/main/how-to-videos/add-an-org-member-as-your-contact.md)
@@ -36,7 +38,7 @@
 - [Use Message Actions](https://github.com/nickmccarty/zoho-cliq-docs/blob/main/how-to-videos/use-message-actions.md)
 - [Virtual Background And Filters](https://github.com/nickmccarty/zoho-cliq-docs/blob/main/how-to-videos/virtual-background-and-filters.md)
   
-## Webinars
+## [Webinars](https://www.youtube.com/watch?v=yuhy9gX9wXw&list=PLWzvJI5w1TXytzQLHgE8m6Ni-lJ1GEV0m&ab_channel=ZohoCliq)
 
 - [10 Important Easter Eggs That Help Improve Productivity](https://github.com/nickmccarty/zoho-cliq-docs/blob/main/webinars/10-important-easter-eggs-that-help-improve-productivity.md)
 - [A Recap Everything New In Zoho Cliq So Far This Year (2023)](https://github.com/nickmccarty/zoho-cliq-docs/blob/main/webinars/a-recap-everything-new-in-zoho-cliq-so-far-this-year-(2023).md)
